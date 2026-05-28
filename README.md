@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matas</h1>
 <h3 align="center">A CompSci student from Vilnius University</h3>
 
-- 🔭 I’m currently working on [Studentų sistema](https://github.com/koldMB/studentu-sistema)
-
 - 🌱 I’m currently learning **OpenCV, C#, Python, Java**
 
 <h3 align="left">Connect with me:</h3>
